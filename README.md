@@ -1,3 +1,3 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+# Name: KIM KHOA NGUYEN
+# PID: A17129001
